@@ -9,7 +9,7 @@
   "author": "Alejandro Erazo",
   "license": "ISC",
   "dependencies": {
-    "yargs": "^15.1.0"
+    "yargs": "^15.4.1"
   },
   "devDependencies": {}
 }
